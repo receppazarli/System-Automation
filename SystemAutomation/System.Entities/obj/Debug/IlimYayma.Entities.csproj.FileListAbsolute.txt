@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.Entities\bin\Debug\IlimYayma.Entities.dll
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.Entities\bin\Debug\IlimYayma.Entities.pdb
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.Entities\obj\Debug\IlimYayma.Entities.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.Entities\obj\Debug\IlimYayma.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.Entities\obj\Debug\IlimYayma.Entities.dll
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.Entities\obj\Debug\IlimYayma.Entities.pdb

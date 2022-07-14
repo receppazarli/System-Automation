@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\System.DataAcces.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\System.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\IlimYayma.DataAcces.dll
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\IlimYayma.DataAcces.pdb

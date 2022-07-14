@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\System.WebFormsUI.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_Authorization.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_Employee.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_Expenses.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_ExpenseType.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_Incomes.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_IncomeTypes.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_Login.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_MainModule.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_Person.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_Type.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.Forms.Frm_User.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\DevExpress.XtraGauges.Demos.AnalogClock.resources
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\System.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.exe
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.WebFormsUI\obj\Debug\IlimYayma.WebFormsUI.pdb

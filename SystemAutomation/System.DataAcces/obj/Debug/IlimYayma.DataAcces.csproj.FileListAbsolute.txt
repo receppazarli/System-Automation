@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\IlimYayma.DataAcces.dll.config
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\IlimYayma.DataAcces.dll
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\IlimYayma.DataAcces.pdb
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\IlimYayma.Entities.dll
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\IlimYayma.Entities.pdb
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\IlimYayma.DataAcces.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\IlimYayma.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\IlimYayma.DataAcces.csproj.CopyComplete
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\IlimYayma.DataAcces.dll
+C:\Users\HP\source\repos\IlimYaymaYurtOtomasyonu\IlimYayma.DataAcces\obj\Debug\IlimYayma.DataAcces.pdb
